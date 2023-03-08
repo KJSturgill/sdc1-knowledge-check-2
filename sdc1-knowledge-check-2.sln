@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sdc1-knowledge-check-2", "sdc1-knowledge-check-2\sdc1-knowledge-check-2.csproj", "{707A2EF7-8281-4A83-9EA7-C705A1E276BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707A2EF7-8281-4A83-9EA7-C705A1E276BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707A2EF7-8281-4A83-9EA7-C705A1E276BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707A2EF7-8281-4A83-9EA7-C705A1E276BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707A2EF7-8281-4A83-9EA7-C705A1E276BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C164B6E3-9983-4B71-B1BA-1926215FCAC8}
+	EndGlobalSection
+EndGlobal
